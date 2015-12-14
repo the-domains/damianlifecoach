@@ -1,0 +1,28 @@
+name: damianlifecoach
+favicon: null
+layout_spectrum: 0.5990270785987377
+typography_spectrum: 0.9595692409202456
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.28381117596291006
+  lightness: 0.11238544387742877
+  saturation: 0.6168069655541331
+  rhythmicContrast: 0.9279199738521129
+purpose: []
