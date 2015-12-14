@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: New on TheGrid
-datePublished: '2015-12-14T13:05:39.512Z'
-dateModified: '2015-12-14T12:59:17.648Z'
+datePublished: '2015-12-14T13:07:32.162Z'
+dateModified: '2015-12-14T13:05:39.512Z'
 title: Making My Own Homepage
 author: []
 sourcePath: _posts/2015-12-14-making-my-own-homepage.md
