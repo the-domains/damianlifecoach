@@ -5,23 +5,47 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: New on TheGrid
-datePublished: '2015-12-14T13:07:32.162Z'
-dateModified: '2015-12-14T13:05:39.512Z'
-title: Making My Own Homepage
+description: "Apprenticeship\_"
+datePublished: '2016-03-14T12:04:12.283Z'
+dateModified: '2016-03-14T12:03:37.476Z'
+title: Damian Patrick Dougherty
 author: []
 sourcePath: _posts/2015-12-14-making-my-own-homepage.md
 published: true
 authors: []
 publisher:
-  favicon: null
   name: null
   domain: null
   url: null
+  favicon: null
 url: making-my-own-homepage/index.html
 _type: Article
 
 ---
-Making a new homepage
+Apprenticeship 
 
-Hi there world. I have chosen thegrid.io as my homepage provider. Here goes as I enter the unknown world of homepage maker
+The word apprentice may conjure up slightly varying images.
+
+I researched an online [dictionary][0] and for me I have discovered a meaning which seems to adequately define the position I hope to offer people.
+
+I would like to offer my services as a certified and experienced teacher; life coach; therapist, to guide people to also becoming such a certified and experienced professional.
+
+I am offering an apprenticeship in:
+
+TEACHING LANGUAGES
+
+COACHING
+
+THERAPY
+
+COUNSELING
+
+CONSULTING
+
+I have 20+ years experience in teaching a language to second language speakers. ESL生徒さんに英語・英語コミュニケーションを教える20年以上の経験があります。
+
+I have 7 years experience as a certified life coach. 資格とってからライフコーチとして、7年の経験
+
+I received my certificate in hypnotherapy in 2015年に催眠術師の資格を取得して、セラピーセッションの経験も重ねて
+
+[0]: http://dictionary.reference.com/browse/apprenticeship
