@@ -6,12 +6,11 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Apprenticeship\_"
-datePublished: '2016-03-14T12:04:12.283Z'
-dateModified: '2016-03-14T12:03:37.476Z'
+datePublished: '2016-07-10T04:00:03.899Z'
+dateModified: '2016-03-14T12:04:19.116Z'
 title: Damian Patrick Dougherty
 author: []
 sourcePath: _posts/2015-12-14-making-my-own-homepage.md
-published: true
 authors: []
 publisher:
   name: null
